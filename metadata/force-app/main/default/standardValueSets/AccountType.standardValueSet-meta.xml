@@ -51,9 +51,4 @@
         <default>false</default>
         <label>Other</label>
     </standardValue>
-    <standardValue>
-        <fullName>Test Record</fullName>
-        <default>false</default>
-        <label>Test Record</label>
-    </standardValue>
 </StandardValueSet>
